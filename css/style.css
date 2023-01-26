@@ -79,7 +79,7 @@
 @media (max-width: 760px) {
 	.title {
 		font-size: 16px;
-		margin-top: 8%;
+		margin-top: 15%;
 	}
 
 	.display {
@@ -89,7 +89,7 @@
 	.tile {
 		border: 1px solid #fff;
 		min-width: 50x;
-		min-height: 50px;
+		min-height: 100px;
 		display: flex;
 		font-size: 30px;
 	}
