@@ -76,21 +76,17 @@
 	cursor: pointer;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 750px) {
 	.title {
-		font-size: 16px;
+		font-size: 18px;
 		margin-top: 20%;
 	}
 
 	.display {
-		font-size: 20px;
+		font-size: 25px;
 	}
 
-	/*.tile {
-		border: 1px solid #fff;
-		min-width: 50x;
-		min-height: 100px;
-		display: flex;
+	.tile {
 		font-size: 30px;
-	}*/
+	}
 }
