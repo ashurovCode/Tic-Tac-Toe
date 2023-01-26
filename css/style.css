@@ -79,18 +79,18 @@
 @media (max-width: 760px) {
 	.title {
 		font-size: 16px;
-		margin-top: 15%;
+		margin-top: 20%;
 	}
 
 	.display {
 		font-size: 20px;
 	}
 
-	.tile {
+	/*.tile {
 		border: 1px solid #fff;
 		min-width: 50x;
 		min-height: 100px;
 		display: flex;
 		font-size: 30px;
-	}
+	}*/
 }
